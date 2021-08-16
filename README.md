@@ -1,0 +1,4 @@
+# Angular10_API_NetCore31_SqlServer
+Angular10_API_NetCore31_SqlServer
+
+by Jorge Prieto 2020
